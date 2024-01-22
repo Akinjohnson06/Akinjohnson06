@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akinjohnson06
 - 👀 I’m interested in Knowledge 
-- 🌱 I’m currently learning Data Science 
+- 🌱 I’m currently learning Data Science - Machine Learning
 - 💞️ I’m looking to collaborate on Data Analysis 
 - 📫 How to reach me akinjohnson06@gmail.com 
 - 😄 Pronouns: Mr
