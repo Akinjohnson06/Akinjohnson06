@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akinjohnson06
+- 👋 Hi, I’m Akin-Johnson Oluwamayowa
 - 👀 I’m interested in Knowledge 
 - 🌱 I’m currently learning Data Science - Machine Learning
 - 💞️ I’m looking to collaborate on Data Analysis 
