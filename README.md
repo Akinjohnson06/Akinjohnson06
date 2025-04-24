@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akin-Johnson Oluwamayowa
 - 👀 I’m interested in Knowledge 
 - 🌱 I’m currently learning Data Science - Machine Learning
-- 💞️ I’m looking to collaborate on Data Analysis 
+- 💞️ I’m looking to collaborate with Data Enthusiast 
 - 📫 How to reach me akinjohnson06@gmail.com 
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: I Love knowledge 
