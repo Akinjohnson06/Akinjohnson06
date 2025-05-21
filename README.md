@@ -42,11 +42,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinjohnson06@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://linktr.ee/akinjohnson)
 
----
-
-<!-- Snake GitHub contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akinjohnson06/Akinjohnson06/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akinjohnson06/Akinjohnson06/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Akinjohnson06/Akinjohnson06/output/github-snake.svg" />
-</picture>
