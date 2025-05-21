@@ -21,9 +21,9 @@ I’m a passionate data scientist focused on building intelligent systems, uncov
 ## 🛠️ Tech Stack
 
 **Languages & Tools**:  
-`Python` | `SQL`  
+`Python` | `SQL`   
 **Libraries & Frameworks**:  
-`Pandas` | `NumPy` | `Scikit-learn` | `TensorFlow` | `Matplotlib` | `Seaborn` | `XGBoost` | `FastAPI`
+`Pandas` | `NumPy` | `Scikit-learn` | `TensorFlow` | `Matplotlib` | `Seaborn` | `XGBoost` | `FastAPI`  
 **Data & Visualization**:  
 `Power BI`  
 **Databases**:  
