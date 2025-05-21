@@ -16,7 +16,7 @@ I'm constantly expanding my knowledge in:
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/akinjohnson)  
 - 📧 Email: akinjohnson@gmail.com 
-- 🌐 [Portfolio](linktr.ee/akinjohnson)
+- 🌐 [Portfolio](https://linktr.ee/akinjohnson)
 
 <!--
 **Akinjohnson06/Akinjohnson06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
