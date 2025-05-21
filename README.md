@@ -1,44 +1,61 @@
-<img src="banner_data_science.png" alt="GitHub Banner" width="100%" />
+# 👋 Hi, I'm Akin-Johnson Oluwamayowa
 
-# Hello there! I'm Akin-Johnson Oluwamayowa 👋🏼
-🔍 I'm a **Data Scientist** passionate about uncovering insights, solving real-world problems, and creating data-powered solutions.  
-📊 Currently exploring the exciting intersection of **machine learning, deep learning, and MLOps**.  
-🎓 Lifelong learner and advocate for clean, reproducible, and scalable data workflows.  
-🤝 Open to collaborating on data projects, research, and innovative AI applications!
+**Data Scientist | Machine Learning | Deep Learning Enthusiast | Problem Solver**
 
 ---
 
-# 🧠 Tech Stack & Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I’m a passionate data scientist focused on building intelligent systems, uncovering patterns in data, and turning raw information into strategic insights. Whether it's wrangling messy datasets, creating predictive models, or deploying machine learning solutions, I thrive at the intersection of data and impact.
 
 ---
 
-# 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akinjohnson06&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Akinjohnson06&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akinjohnson06&layout=compact&theme=tokyonight" />
-</p>
+## 🚀 What I Do
+
+- 📊 Data Analysis & Visualization  
+- 🧠 Machine Learning & Predictive Modeling  
+- 🏗️ Building End-to-End Data Pipelines    
+- 🧪 Experimentation & A/B Testing  
+- 📈 Data-Driven Decision Support
 
 ---
 
-# 🌍 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akinjohnson)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinjohnson06@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://linktr.ee/akinjohnson)
+## 🛠️ Tech Stack
+
+**Languages & Tools**:  
+`Python` | `SQL`  
+**Libraries & Frameworks**:  
+`Pandas` | `NumPy` | `Scikit-learn` | `TensorFlow` | `Matplotlib` | `Seaborn` | `XGBoost` | `FastAPI`
+**Data & Visualization**:  
+`Power BI`  
+**Databases**:  
+`PostgreSQL` | `MySQL` | `SQLite`  
+**Other Tools**:  
+`Git` | `Docker` | `Jupyter Notebooks` | `VS Code`
+
+---
+
+## 📚 Currently Exploring
+
+- ✅ Deep Learning framework   
+- ✅ NLP and Computer Vision  
+- ✅ Scalable ML with cloud platforms  
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- Real-world machine learning projects  
+- Open-source data tools  
+- Research in applied AI or social good initiatives  
+
+---
+
+## 📫 Get in Touch
+
+- **Email**: [E-mail](akinjohnson06@gmail.com)
+- **LinkedIn**: [Linkedin](https://linkedin.com/in/akinjohnson06)  
+- **Portfolio**: [Portfolio](https://linktr.ee/akinjohnson)
+
+---
+
+> _“Every dataset hides a truth. My job is to uncover it, ethically and elegantly.” - Akin-johnson Oluwamayowa M._
 
