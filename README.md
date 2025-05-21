@@ -1,32 +1,52 @@
-<h1 align="center">Hi 👋, I'm Akin-johnson Oluwamayowa</h1>
-<h3 align="center">I'm a passionate Data Scientist who loves turning data into meaningful insights and impactful solutions. I specialize in building predictive models, data pipelines, and compelling visualizations that help drive smarter decisions.</h3>
+<img src="banner_data_science.png" alt="GitHub Banner" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akinjohnson06&label=Profile%20views&color=0e75b6&style=flat" alt="akinjohnson06" /> </p>
+# Hello there! I'm Akin-Johnson Oluwamayowa 👋🏼
+🔍 I'm a **Data Scientist** passionate about uncovering insights, solving real-world problems, and creating data-powered solutions.  
+📊 Currently exploring the exciting intersection of **machine learning, deep learning, and MLOps**.  
+🎓 Lifelong learner and advocate for clean, reproducible, and scalable data workflows.  
+🤝 Open to collaborating on data projects, research, and innovative AI applications!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akinjohnson06" alt="akinjohnson06" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Sales Forecast**
+# 🧠 Tech Stack & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- 🌱 I’m currently learning **deep learning**
+---
 
-- 👯 I’m looking to collaborate on **Data Science**
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/akinjohnson](https://linktr.ee/akinjohnson)
-
-- 📫 How to reach me **akinjohnson06@gmail.com**
-
-- ⚡ Fun fact **I love being a data scientist and i also play the Saxophone**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akinjohnsonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akinjohnsonn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akin-johnson oluwamayowa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akin-johnson oluwamayowa" height="30" width="40" /></a>
-<a href="https://instagram.com/akinjohnson_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akinjohnson_" height="30" width="40" /></a>
+# 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akinjohnson06&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Akinjohnson06&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akinjohnson06&layout=compact&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akinjohnson06&show_icons=true&locale=en&layout=compact" alt="akinjohnson06" /></p>
+# 🌍 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akinjohnson)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinjohnson06@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://linktr.ee/akinjohnson)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akinjohnson06&show_icons=true&locale=en" alt="akinjohnson06" /></p>
+---
+
+<!-- Snake GitHub contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akinjohnson06/Akinjohnson06/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akinjohnson06/Akinjohnson06/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Akinjohnson06/Akinjohnson06/output/github-snake.svg" />
+</picture>
